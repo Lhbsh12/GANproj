@@ -1,0 +1,5 @@
+- The minority class used as the positive class is: 'Fraud'.
+- The original class imbalance ratio is approximately 25.41:1.
+- The best minority-class F1-score was achieved by: Balanced with WGAN-GP (F1 = 0.1964).
+- The best AUC-ROC was achieved by: Original Imbalanced (AUC = 0.8006).
+- The final recommendation should prioritize minority recall and F1-score because missing fraud cases is more harmful than misclassifying a small number of legitimate cases.
